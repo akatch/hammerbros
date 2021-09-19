@@ -3,10 +3,14 @@
 # Checks for changes to the main branch
 # If changes are detected, merge to local and rebuild the site
 
+# Cron usage:
+# !! Ensure the hugo and git binaries are in $PATH
+# */15 * * * * cd $PROJECTDIR && scripts/ci.sh
+
 set -e
 
 # Stash any local changes
-git stash
+git stash --quiet
 
 # Check for updates
 git fetch origin
@@ -19,5 +23,8 @@ if [[ "$new_commits" != "" ]]; then
     hugo
     printf "done.\n"
 fi
+
+# Restore local changes
+git stash pop --quiet
 
 exit 0
