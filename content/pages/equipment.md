@@ -1,5 +1,5 @@
 ---
-title: "Equipment Recommendations"
+title: 'Equipment Recommendations'
 date: 2021-09-15T17:46:45-05:00
 tags:
 - beginner
@@ -35,9 +35,9 @@ tags:
 
 # Personal Recommendations
 ## TeknoXI
-[Hearing Protection](Eargasms)\
+[Hearing Protection](https://www.amazon.com/Eargasm-Musicians-Motorcycles-Sensitivity-Conditions/dp/B019M576XW)\
 [2x72" Grinder](https://reederproducts.com/)\
 [TIG Welder](https://ahpwelds.com/)\
 [Anvil](https://texasfarriersupply.com/shop/forging-supplies/anvils-and-accessories/anvils/c/980)\
 [Forge](https://mrvolcano.com/collections/the-forge)\
-[Electric Fan (Inline Duct Fan)](https://www.ebay.com/itm/iPower-4-6-8-Inch-Inline-Duct-Fan-Variable-Speed-Controller-HVAC-Blower-Kit/163765156989)\
+[Electric inline duct fan](https://www.ebay.com/itm/iPower-4-6-8-Inch-Inline-Duct-Fan-Variable-Speed-Controller-HVAC-Blower-Kit/163765156989)
