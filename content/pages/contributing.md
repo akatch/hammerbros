@@ -16,10 +16,10 @@ See something that needs to be changed? Want to add something you think we're mi
 
 ### Enter your changes in the text editor. 
 #### NOTE: To add images or files, drag and drop them into the text editor. For help understanding how to format text, refer to [this article.](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-![editing2](https://user-images.githubusercontent.com/91030760/133941827-46ba303a-efc5-4ff6-b1a9-053a99c08af0.jpg)
+![A screenshot of the page editing view](/editing-page-content.jpg)
 
 ### Once ready to submit, add a brief description of the proposed change and click the 'Propose Changes' button
-![editing3](https://user-images.githubusercontent.com/91030760/133941984-8589c75b-d64a-4a0e-a3c4-b9351452f228.jpg)
+![A screenshot of the Propose Changes dialogue](/editing-page-propose-chg.jpg)
 
 ### Double check your proposed changes. Once you are ready for your changes to be reviewed, click 'Create Pull Request'
-![editing4](https://user-images.githubusercontent.com/91030760/133942571-a5dacd5d-6745-4351-b868-107d561b495c.jpg)
+![A screenshot of the Create Pull Request page](/create-pull-request.jpg)
