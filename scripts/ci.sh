@@ -9,8 +9,8 @@
 
 set -e
 
-# Stash any local changes
-git stash --quiet
+which hugo
+which git
 
 # Check for updates
 git fetch origin
@@ -23,8 +23,5 @@ if [[ "$new_commits" != "" ]]; then
     hugo
     printf "done.\n"
 fi
-
-# Restore local changes
-git stash pop --quiet
 
 exit 0
