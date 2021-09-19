@@ -9,9 +9,6 @@
 
 set -e
 
-which hugo
-which git
-
 # Check for updates
 git fetch origin
 new_commits=$(git log main..origin/main --pretty=oneline)
