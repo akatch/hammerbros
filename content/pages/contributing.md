@@ -1,7 +1,6 @@
 ---
 title: 'Contributing'
 date: 2021-09-17T21:51:43-05:00
-draft: true
 tags:
 - meta
 ---
