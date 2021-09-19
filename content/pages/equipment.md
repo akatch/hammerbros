@@ -8,7 +8,7 @@ tags:
 ## Anvil
 * Large embedded 12lb+ sledge hammer (recommended)
 * Any large chunk of steel (search eBay for 1045 steel or ask to purchase at a local machine shop)
-* New anvils from [retailer](/pages/vendors/#anvil-retailers) (not Harbor Freight)
+* New anvils from [retailer](/pages/vendors/#anvil-retailers)
 * Upright railroad track (Google Anvilfire)
 {{< alert >}}**Protip:** Check out our [DIY tooling page](/pages/diy/#tool-mounting) for tips on mounting your anvil{{< /alert >}}
 
