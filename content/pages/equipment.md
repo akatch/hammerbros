@@ -10,6 +10,7 @@ tags:
 * Any large chunk of steel (search eBay for 1045 steel or ask to purchase at a local machine shop)
 * New anvils from [retailer](/pages/vendors/#anvil-retailers)
 * Upright railroad track (Google Anvilfire)
+
 {{< alert >}}**Protip:** Check out our [DIY tooling page](/pages/diy/#tool-mounting) for tips on mounting your anvil{{< /alert >}}
 
 ## Hammer
@@ -26,6 +27,8 @@ tags:
 ## Forge
 * [Mr Volcano](https://mrvolcano.com/collections/the-forge)
 * [Just a Box of Dirt](https://www.youtube.com/watch?v=m-R6iY-mY-Y)
+
+{{< alert >}}**Protip:** Check out our [forge lining page](/pages/forge_lining) for an overview of the process and materials needed to line your gas forge{{< /alert >}}
 
 ## Steel
 * Assorted 1/4"-3/4" (6mm-19mm) mild steel in square and round stock
