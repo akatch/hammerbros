@@ -15,7 +15,7 @@ new_commits=$(git log main..origin/main --pretty=oneline)
 
 # if output was not empty, remote has changes that we don't have
 if [[ "$new_commits" != "" ]]; then
-    printf "Found new commits:\n%s" "$new_commits"
+    printf "Found new commits:\n%s\n" "$new_commits"
     git merge
     hugo
 fi
