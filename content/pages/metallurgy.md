@@ -8,7 +8,8 @@ tags:
 Heat treat companion app [Android](https://play.google.com/store/apps/details?id=com.pfiks.mobile.heattreaters&hl=en_US&gl=US) | [iOS](https://apps.apple.com/us/app/heat-treaters-guide-companion/id702178173)\
 [Heat treating basics](http://www.cashenblades.com/heattreatment.html)\
 [Heat treating procedure](http://ia801408.us.archive.org/33/items/gov.ntis.ava08799vnb1/ava08799vnb1_512kb.mp4)\
-[Kevin Cashen heat treatment guidebook](https://knifedogs.com/threads/your-heat-treating-tool-box.22568/)
+[Kevin Cashen heat treatment guidebook](https://knifedogs.com/threads/your-heat-treating-tool-box.22568/)\
+[Heat treating quick reference](https://i.imgur.com/Z3Yr0fJ.jpg)
 
 ## Miscellaneous Metallurgy Resources
 [Metallurgy of Steel for Bladesmiths & Others who Heat Treat and Forge Steel by John D. Verhoeven](http://web.archive.org/web/20060502161518/http://mse.iastate.edu/files/verhoeven/7-5.pdf) | [Mirror](http://hybridburners.com/documents/verhoeven.pdf)\

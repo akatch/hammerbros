@@ -15,6 +15,8 @@ Set of historical steel making books [1](http://archive.org/search.php?query=cre
 
 [Free blacksmith book downloads](http://www.bamsite.org/books/books.html)
 
+[Basic Blacksmithing: A Training Manual](http://www.fao.org/3/ah637e/AH637E00.htm) by J.B. Stokes
+
 Backyard Blacksmith by Lorelei Sims
 
 [Late 1800s architectural work courtesy of Arlin](https://cdn.discordapp.com/attachments/292897034606870530/455924242521915404/architecturalwro00kentuoft.pdf)

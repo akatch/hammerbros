@@ -14,3 +14,5 @@ date: 2021-09-15T17:54:49-05:00
 Mokume Gane — A Comprehensive Study by Steven Jacob
 
 [Mokume Gane – A Comprehensive Study by Steve Midgett](https://www.mokume.com/book) A "how to" guide with instructions for firing, patterning and using Mokume by a variety of methods.
+
+[Gari's Quick & Dirty Guide to Crucible Steel](https://cdn.discordapp.com/attachments/251054378062970880/864537874569494598/Damascus_.pdf) (mobile-friendly PDF)
