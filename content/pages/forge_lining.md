@@ -1,7 +1,6 @@
 ---
 title: "Lining Your Forge"
 date: 2021-09-25T11:03:22-05:00
-draft: true
 tags:
 - safety
 - equipment
@@ -25,6 +24,8 @@ tags:
 * Respirator with minimum P100 filters (the pink ones)
 * Something to cover your work surface (eg cardboard, kraft paper, plastic sheeting, or a dropcloth)
 * Spray bottle nozzle (borrow one from a household cleaning product, *rinse well*)
+* Spray bottle of clean water
+* Something to apply mixed refractory, such as a paintbrush or foam brush
 
 *Follow the instructions provided for your specific products*, but generally speaking, the process goes like this:
 ## The Process
