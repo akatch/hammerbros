@@ -18,6 +18,7 @@ tags:
 * [Ceramic wool blanket](http://www.hightemptools.com/inswool.html) (Provides insulation and thermal mass to the forge)
 * [Rigidizer (bottom of page)](http://www.hightemptools.com/refractorycoatings.html) (Stabilizes the ceramic wool fibers)
 * [Castable refractory](http://www.hightemptools.com/castablerefractory.html) (Protects the rigidized ceramic wool from damage by normal wear and tear)
+* Optional: ITC-100 [High Temp Tools](http://www.hightemptools.com/itcproducts.html) | [Amazon](https://amazon.com/Volcano-ITC-100HT-Temperature-Reflector-Refractory/dp/B096RNM3CQ)
 
 ### Equipment
 * Disposable gloves
@@ -51,3 +52,6 @@ tags:
 1. Mix the remaining refractory according to the manufacturer's instructions.
 1. Apply the remaining refractory to the inside of your forge, making sure to focus on any cracks that may have formed.
 1. Let dry at least 24 hours, then repeat heat cure instructions above.
+
+### Optional: Refractory Coating
+To improve your forge's efficiency and increase its maximum temperature, you can optionally apply ITC-100 high temperature ceramic coating to your forge. Follow the included instructions to apply this product.
