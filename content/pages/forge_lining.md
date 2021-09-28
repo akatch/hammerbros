@@ -46,6 +46,8 @@ tags:
 1. Apply a thin, even layer of the refractory to all exposed ceramic wool, including the exposed edges of the wool on the ends of your forge.
 1. Let dry at least 24 hours, then repeat heat cure instructions above.
 
+{{< alert >}}At this stage, check carefully for cracks and holes. If you see fiber, repair it in the next stage{{< /alert >}}
+
 ### Refract 2.0
 1. Remove the forge burners.
 1. Lightly spray the first layer of cured refractory with water.
