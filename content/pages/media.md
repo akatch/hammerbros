@@ -1,6 +1,7 @@
 ---
-title: "Media"
+title: 'Media'
 date: 2021-09-15T20:23:56-05:00
+description: 'Assorted external resources and media'
 tags:
 - education
 ---

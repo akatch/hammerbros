@@ -1,6 +1,7 @@
 ---
 title: 'Equipment and Material Recommendations'
 date: 2021-09-15T17:46:45-05:00
+description: 'Our recommendations for basic blacksmithing equipment and materials'
 tags:
 - beginner
 - equipment
