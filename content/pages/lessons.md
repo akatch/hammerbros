@@ -1,6 +1,7 @@
 ---
-title: "Lessons"
+title: 'Lessons'
 date: 2021-09-15T17:52:09-05:00
+description: 'Self-directed resources for furthering your blacksmithing education'
 tags:
 - beginner
 - education

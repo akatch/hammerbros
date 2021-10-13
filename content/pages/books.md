@@ -1,6 +1,7 @@
 ---
-title: "Books"
+title: 'Books'
 date: 2021-09-15T17:53:20-05:00
+description: 'A list of recommended reading materials'
 tags:
 - education
 ---

@@ -1,6 +1,7 @@
 ---
-title: "Metallurgy"
+title: 'Metallurgy'
 date: 2021-09-15T17:48:05-05:00
+description: 'Resources relating to general metallurgy'
 tags:
 - 'heat treat'
 ---

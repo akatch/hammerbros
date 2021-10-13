@@ -1,6 +1,7 @@
 ---
-title: "Bladesmithing"
+title: 'Bladesmithing'
 date: 2021-09-15T18:08:01-05:00
+description: 'Resources relating to bladesmithing'
 ---
 
 [Blade steels and heat treatment](https://knifesteelnerds.com/getting-started/)

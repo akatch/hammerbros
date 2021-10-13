@@ -1,6 +1,7 @@
 ---
-title: "Charts"
+title: 'Charts'
 date: 2021-09-15T19:12:30-05:00
+description: 'A selection of useful reference charts'
 ---
 
 [European Steel and Alloy Grades / Numbers and equivalents](http://steelnumber.com/)

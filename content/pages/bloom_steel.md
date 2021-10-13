@@ -1,6 +1,7 @@
 ---
-title: "Bloom Steel"
+title: 'Bloom Steel'
 date: 2021-09-15T18:09:37-05:00
+description: 'Resources relating to the creation of bloom steel, also known as hearth steel'
 ---
 
 
