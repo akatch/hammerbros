@@ -37,6 +37,10 @@ tags:
 * 1045/5160 for tool steel
 * 5160/1075/1084 for blade steel
 
+## Whetstones
+* [King KDS 1000/6000 grit combination stone](https://www.amazon.com/KDS-Combination-Whetstone-Sharpening-Harder/dp/B01BB1ZDVW)
+* [King KW65 1000/6000 grit combination stone with plastic base](https://www.amazon.com/KING-KW65-Combination-Whetstone-Plastic/dp/B001DT1X9O)
+
 # Personal Recommendations
 ## TeknoXI
 [Hearing protection](https://www.amazon.com/Eargasm-Musicians-Motorcycles-Sensitivity-Conditions/dp/B019M576XW)\
