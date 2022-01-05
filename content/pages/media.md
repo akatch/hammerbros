@@ -17,7 +17,8 @@ tags:
 ## YouTube
 ### Videos
 [JABOD Forge](https://www.youtube.com/watch?v=m-R6iY-mY-Y)\
-[How to Light a Coal Forge](https://www.youtube.com/watch?v=Jwuu_mF9WMg)
+[How to Light a Coal Forge](https://www.youtube.com/watch?v=Jwuu_mF9WMg)\
+[Blade Sharpness vs Geometry](https://youtu.be/7J5nYBPvMgU)
 
 ### Playlists
 [Bladesmith stuff](https://www.youtube.com/playlist?list=PLvQwRbvPS1_i9uX18LavF3wpirIHEbyQa)
