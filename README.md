@@ -2,6 +2,8 @@
 Powered by Hugo
 
 ## Setup
+Install [golang](https://golang.org/doc/install)
+
 Install [hugo_extended](https://gohugo.io/getting-started/installing)
 
 Clone this repo and start the development server
