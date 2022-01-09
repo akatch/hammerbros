@@ -6,5 +6,7 @@ description: 'Crucial safety information for new and aspiring blacksmiths'
 tags:
 - beginner
 - safety
+type: 'docs'
+icon: 'ti-alert'
 ---
 {{< youtube nrKbNayoAbo >}}

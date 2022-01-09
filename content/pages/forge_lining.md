@@ -1,6 +1,7 @@
 ---
 title: "Lining Your Forge"
 date: 2021-09-25T11:03:22-05:00
+description: "A proper forge lining is crucial to your safety and ability to keep smithing for decades to come. Read on to get an overview of the process for correctly and safely lining your forge."
 tags:
 - safety
 - equipment
@@ -9,9 +10,10 @@ tags:
 
 [Source](https://www.facebook.com/groups/1119671338064808/posts/1399753240056615/)
 
-{{< lead >}}A proper forge lining is crucial to your safety and ability to keep smithing for decades to come. Read on to get an overview of the process for correctly and safely lining your forge.{{< /lead >}}
 
-{{< alert >}}**Warning:** Always wear a respirator and gloves while handling uncured refractory and unrigidized ceramic wool!{{< /alert >}}
+{{< notice warning >}}
+Always wear a respirator and gloves while handling uncured refractory and unrigidized ceramic wool!
+{{< /notice >}}
 
 ## You Will Need
 ### Materials
@@ -46,7 +48,9 @@ tags:
 1. Apply a thin, even layer of the refractory to all exposed ceramic wool, including the exposed edges of the wool on the ends of your forge.
 1. Let dry at least 24 hours, then repeat heat cure instructions above.
 
-{{< alert >}}At this stage, check carefully for cracks and holes. If you see fiber, repair it in the next stage{{< /alert >}}
+{{< notice info >}}
+At this stage, check carefully for cracks and holes. If you see fiber, repair it in the next stage
+{{< /notice >}}
 
 ### Refract 2.0
 1. Remove the forge burners.

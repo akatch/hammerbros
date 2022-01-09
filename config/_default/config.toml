@@ -1,3 +1,86 @@
-baseURL = 'https://hammerbros.club/'
-languageCode = 'en-us'
-title = '/r/blacksmith Knowledge Base'
+baseURL = "https://hammerbros.club/"
+theme = "dot-hugo"
+title = ""
+disableLanguages = []
+
+[params]
+primary_color = "#a55400"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+name = "Github"
+link = "https://github.com/akatch/hammerbros"
+
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+copyright = "Copyright &copy; 2022 Hammer Bros"
+
+[Languages.en.params.banner]
+title = "Blacksmithing Knowledge Base"
+subtitle = "Here we sit in many lands // As steel is formed by skill of hands // From stock and sparks and smith's desire // From hammer's strike and stoking fire // Questions asked and answers learned // As night draws on and forges burn --Aetherwolf76"
+bg_image = "welcome-the-forge-is-open-today.jpg"
+placeholder = "Search the knowledge base"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Join the Community"
+content = "Still need help? Looking to show off your work? Just want to say hi? Come join us on Discord, we'd love to chat with you!"
+
+# call to action button
+[Languages.en.params.cta.button]
+enable = true
+label = "Chat with us"
+link = "https://discord.gg/BtbaZCDv"
+
+[[Languages.en.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "FAQ"
+url = "/pages/faq"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Getting Started"
+url = "/tags/beginner"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = 'Glossary'
+url = 'https://www.anvilfire.com/FAQs/glos_faq_trans_index.htm'
+weight = 4
+
+# Dropdown menu
+[[Languages.en.menu.main]]
+weight = 5
+name = "docs"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Installation"
+  url = "installation"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Billing and Pricing"
+  url = "billing-pricing"
+  weight = 2
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Features"
+  url = "features"
+  weight = 3
