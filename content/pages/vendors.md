@@ -17,7 +17,7 @@ tags:
 [Atlas Knifemaker](http://www.atlasknife.com/)\
 [Texas Farrier Supply](https://texasfarriersupply.com/shop/featured/tfs-150lb-blacksmith-anvil/p/13364)\
 [Centaur Forge](https://www.centaurforge.com/)\
-{{< alert >}}We do not recommend purchasing anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.{{< /alert >}}
+{{< notice >}}We do not recommend purchasing anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.{{< /notice >}}
 
 ## Accessories
 [Rivets & Bolts](https://www.blacksmithbolt.com/)\
