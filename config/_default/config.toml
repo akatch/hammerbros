@@ -53,12 +53,12 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "FAQ"
-url = "/getting_started/faq"
+url = "/pages/getting_started/faq"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Getting Started"
-url = "/getting_started"
+url = "/pages/getting_started"
 weight = 3
 
 [[Languages.en.menu.main]]
