@@ -10,11 +10,11 @@ tags:
 ## Anvil
 * Large embedded 12lb+ sledge hammer (recommended)
 * Any large chunk of steel (search eBay for 1045 steel or ask to purchase at a local machine shop)
-* New anvils from [retailer](/equipment/vendors/#anvil-retailers)
+* New anvils from [retailer](/pages/equipment/vendors/#anvil-retailers)
 * Upright railroad track (Google Anvilfire)
 
 {{< notice tip >}}
-Check out our [DIY tooling page](/equipment/diy/#tool-mounting) for tips on mounting your anvil
+Check out our [DIY tooling page](/pages/equipment/diy/#tool-mounting) for tips on mounting your anvil
 {{< /notice >}}
 
 ## Hammer
@@ -33,7 +33,7 @@ Check out our [DIY tooling page](/equipment/diy/#tool-mounting) for tips on moun
 * [Just a Box of Dirt](https://www.youtube.com/watch?v=m-R6iY-mY-Y)
 
 {{< notice tip >}}
-Check out our [forge lining page](/equipment/forge_lining) for an overview of the process and materials needed to line your gas forge
+Check out our [forge lining page](/pages/equipment/forge_lining) for an overview of the process and materials needed to line your gas forge
 {{< /notice >}}
 
 ## Steel

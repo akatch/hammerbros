@@ -13,7 +13,7 @@ tags:
 
 {{< faq "Bending fork" >}}
 ![](/storyboards/bending-fork.jpg)
-![](storyboards/bending-fork-2.jpg)
+![](/storyboards/bending-fork-2.jpg)
 {{</ faq >}}
 
 {{< faq "Decorative ironwork" >}}

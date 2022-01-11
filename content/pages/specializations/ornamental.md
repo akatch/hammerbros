@@ -1,5 +1,5 @@
 ---
-title: 'Ornamental'
+title: 'Ornamental Ironwork'
 date: 2021-09-15T18:08:11-05:00
 description: 'Resources relating to decorative metalwork, such as repousse and chasing'
 ---

@@ -10,11 +10,11 @@ type: "docs"
 icon: "ti-help-alt"
 ---
 {{< faq "I'm new to blacksmithing. What equipment do I need to get started?" >}}
-Welcome! We're so glad you're here! Before you read any further, please [watch this first](/getting_started/safety). Done? Awesome. You'll need something to get your steel hot (a forge), something to hit your steel with (a hammer), and something to hit your steel against (an anvil). Check out our [equipment recommendations](/equipment/equipment) for some specifics.
+Welcome! We're so glad you're here! Before you read any further, please [watch this first](/pages/getting_started/safety). Done? Awesome. You'll need something to get your steel hot (a forge), something to hit your steel with (a hammer), and something to hit your steel against (an anvil). Check out our [equipment recommendations](/pages/equipment/equipment) for some specifics.
 {{</ faq >}}
 
 {{< faq "Is a piece of railroad track / I-beam a good beginner anvil?" >}}
-We don't recommend using either railroad track or I-beam as anvil substitutes. The reasons for this are twofold; both are very noisy, and neither offers very good rebound, meaning you will have to put more effort into each hammer blow. Check out our [anvil recommendations](/equipment/equipment#anvils) for some better alternatives.
+We don't recommend using either railroad track or I-beam as anvil substitutes. The reasons for this are twofold; both are very noisy, and neither offers very good rebound, meaning you will have to put more effort into each hammer blow. Check out our [anvil recommendations](/pages/equipment/equipment#anvils) for some better alternatives.
 {{</ faq >}}
 
 {{< faq "Which is better, propane or coal?" >}}
@@ -28,5 +28,5 @@ Of necessity, forge linings must be able to withstand extremely high temperature
 At high temperatures, materials including but not limited to **cinderblocks, masonry bricks, stone, and plaster** can and will explode. Please do not use these materials for your forge lining.
 {{< /notice >}}
 
-Instead, line your forge with refractory brick rated to 2300 degrees Fahrenheit or more. Alternatively, use a rigidized ceramic wool blanket coated with castable refractory. Check out some tried-and-true [forge builds](/equipment/diy/#forges) for inspiration.
+Instead, line your forge with refractory brick rated to 2300 degrees Fahrenheit or more. Alternatively, use a rigidized ceramic wool blanket coated with castable refractory. Check out some tried-and-true [forge builds](/pages/equipment/diy/#forges) for inspiration.
 {{</ faq >}}
