@@ -62,17 +62,12 @@ url = "/pages/getting_started"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = 'Glossary'
-url = 'https://www.anvilfire.com/FAQs/glos_faq_trans_index.htm'
+name = "Glossary"
+url = "https://www.anvilfire.com/21st-century-blacksmithing/glossary/English/"
 weight = 4
 
 # Dropdown menu
 [[Languages.en.menu.main]]
+name = "All Pages"
+url = "/pages/"
 weight = 5
-name = "docs"
-hasChildren = true
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "All Pages"
-  url = "/pages/"
