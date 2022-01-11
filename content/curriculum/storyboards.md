@@ -1,7 +1,8 @@
 ---
 title: "Storyboards"
 date: 2021-09-15T18:10:15-05:00
-description: 'Storyboards for various blacksmithing projects.'
+lastmod: 2022-01-10T22:38:32-06:00
+description: 'Storyboards for vmrious blacksmithing projects.'
 tags:
 - education
 ---
