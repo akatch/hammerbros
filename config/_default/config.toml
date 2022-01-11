@@ -75,4 +75,4 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "All Pages"
-  url = "/content/"
+  url = "/pages/"
