@@ -1,6 +1,6 @@
 baseURL = "https://hammerbros.club/"
 theme = "dot-hugo"
-title = ""
+title = "r/blacksmith Knowledge Base"
 disableLanguages = []
 
 [params]
@@ -11,6 +11,11 @@ text_color_dark = "#242738"
 white_color = "#ffffff"
 light_color = "#f8f9fa"
 font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+[[params.social]]
+icon = "ti-game"
+name = "Discord"
+link = "https://discord.gg/BtbaZCDv"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
@@ -24,9 +29,9 @@ weight = 1
 copyright = "Copyright &copy; 2022 Hammer Bros"
 
 [Languages.en.params.banner]
-title = "Blacksmithing Knowledge Base"
+title = "Hammer Bros"
 subtitle = "Here we sit in many lands // As steel is formed by skill of hands // From stock and sparks and smith's desire // From hammer's strike and stoking fire // Questions asked and answers learned // As night draws on and forges burn --Aetherwolf76"
-bg_image = "welcome-the-forge-is-open-today.jpg"
+bg_image = "images/hammer-anvil-tongs.jpg"
 placeholder = "Search the knowledge base"
 
 # call to action
@@ -48,12 +53,12 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "FAQ"
-url = "/pages/faq"
+url = "/getting_started/faq"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "Getting Started"
-url = "/tags/beginner"
+url = "/getting_started"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -69,18 +74,5 @@ hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation"
-  weight = 1
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
-  weight = 2
-
-  [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Features"
-  url = "features"
-  weight = 3
+  name = "All Pages"
+  url = "/pages/"

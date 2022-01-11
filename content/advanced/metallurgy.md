@@ -2,8 +2,6 @@
 title: 'Metallurgy'
 date: 2021-09-15T17:48:05-05:00
 description: 'Resources relating to general metallurgy'
-tags:
-- 'heat treat'
 ---
 ## Heat Treatment
 Heat treat companion app [Android](https://play.google.com/store/apps/details?id=com.pfiks.mobile.heattreaters&hl=en_US&gl=US) | [iOS](https://apps.apple.com/us/app/heat-treaters-guide-companion/id702178173)\

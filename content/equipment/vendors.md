@@ -16,8 +16,10 @@ tags:
 ## Anvil retailers
 [Atlas Knifemaker](http://www.atlasknife.com/)\
 [Texas Farrier Supply](https://texasfarriersupply.com/shop/featured/tfs-150lb-blacksmith-anvil/p/13364)\
-[Centaur Forge](https://www.centaurforge.com/)\
-{{< notice >}}We do not recommend purchasing anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.{{< /notice >}}
+[Centaur Forge](https://www.centaurforge.com/)
+{{< notice info >}}
+We do not recommend purchasing anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.
+{{< /notice >}}
 
 ## Accessories
 [Rivets & Bolts](https://www.blacksmithbolt.com/)\
@@ -25,7 +27,7 @@ tags:
 [Axe & Round wedges](https://www.shforestrysupplies.com/advancedwebpage.aspx?cg=2557&cd=4&SBCatPage=)\
 [Custom leather drive belts](http://www.leatherdrivebelts.com/2.html)\
 [Thermal materials](http://www.hightemptools.com/index.html0)\
-[Parks50 quench oil](https://onemansblog.com/2016/03/14/where-to-get-parks-50-maxim-50-blade-quench-oil/)\
+[Parks50 quench oil](https://onemansblog.com/2016/03/14/where-to-get-parks-50-maxim-50-blade-quench-oil/)
 
 # Steel
 ## US
@@ -36,7 +38,7 @@ tags:
 [Online Metals](https://www.onlinemetals.com/)\
 [Atlantic33 Tool Steel](http://www.atlanticsteelcorp.com/services.html)\
 [Sb Specialty Metals](http://sb-specialty-metals.com/) (exotic steels)\
-eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop ends](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steel+bar+drop+ends&_sacat=0)\
+eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop ends](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steel+bar+drop+ends&_sacat=0)
 
 ## Canada
 [Princess Auto](https://www.princessauto.com/) (cold rolled mild in 5' lengths, not cheap but will ship)\
@@ -51,7 +53,7 @@ eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop
 [Angele Shop](https://www.angele-shop.com/shop/en/) (H13, S1, 1045)\
 [Eurotechni](https://www.eurotechni.com/en/)\
 [GFS Knife Supplies](https://www.gfsknifesupplies.com/)\
-[Dictum](https://www.dictum.com/en/) (Japanese steels)\
+[Dictum](https://www.dictum.com/en/) (Japanese steels)
 
 ## Australia
 [Artisan Supplies](https://www.artisansupplies.com.au/)
