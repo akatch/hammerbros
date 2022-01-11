@@ -23,3 +23,5 @@ Backyard Blacksmith by Lorelei Sims
 [Late 1800s architectural work courtesy of Arlin](https://cdn.discordapp.com/attachments/292897034606870530/455924242521915404/architecturalwro00kentuoft.pdf)
 
 [Introducción a la Cuchillería (por forja y desbaste) Autor Marcelo](https://drive.google.com/file/d/1SJH65p0jgq0FBAO0mYDb17YI4Xzbw_QJ/view?usp=sharing)
+
+[Idiot's Guide to Welding Electrode](/docs/Idiots_Guide_to_Welding_Electrode.pdf) by our very own @Demiurge
