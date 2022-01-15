@@ -1,7 +1,0 @@
-name = 'Hammer Bros.'
-image = 'hammerbro.png'
-
-links = [
-    { discord = 'https://discord.gg/BtbaZCDv' }
-    { github = 'https://github.com/akatch/hammerbros' }
-]

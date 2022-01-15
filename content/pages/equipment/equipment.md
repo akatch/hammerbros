@@ -1,18 +1,21 @@
 ---
 title: 'Equipment and Material Recommendations'
 date: 2021-09-15T17:46:45-05:00
+lastmod: 2022-01-08T01:17:48-05:00
 description: 'Our recommendations for basic blacksmithing equipment and materials'
+keywords: [""]
 tags:
 - beginner
-- equipment
 ---
 ## Anvil
 * Large embedded 12lb+ sledge hammer (recommended)
 * Any large chunk of steel (search eBay for 1045 steel or ask to purchase at a local machine shop)
-* New anvils from [retailer](/pages/vendors/#anvil-retailers)
+* New anvils from [retailer](/pages/equipment/vendors/#anvil-retailers)
 * Upright railroad track (Google Anvilfire)
 
-{{< alert >}}**Protip:** Check out our [DIY tooling page](/pages/diy/#tool-mounting) for tips on mounting your anvil{{< /alert >}}
+{{< notice tip >}}
+Check out our [DIY tooling page](/pages/equipment/diy/#tool-mounting) for tips on mounting your anvil
+{{< /notice >}}
 
 ## Hammer
 * 2 lb Nordic Forge rounding hammer (from [Amazon](https://amazon.com/Nordic-Forge-Lb-Rounding-Hammer/dp/B075LSDGQ4) or [Centaur Forge](https://www.centaurforge.com/Nordic-2-lb-Rounding-Hammer/productinfo/285/))
@@ -29,7 +32,9 @@ tags:
 * [Mr Volcano](https://mrvolcano.com/collections/the-forge)
 * [Just a Box of Dirt](https://www.youtube.com/watch?v=m-R6iY-mY-Y)
 
-{{< alert >}}**Protip:** Check out our [forge lining page](/pages/forge_lining) for an overview of the process and materials needed to line your gas forge{{< /alert >}}
+{{< notice tip >}}
+Check out our [forge lining page](/pages/equipment/forge_lining) for an overview of the process and materials needed to line your gas forge
+{{< /notice >}}
 
 ## Steel
 * Assorted 1/4"-3/4" (6mm-19mm) mild steel in square and round stock
