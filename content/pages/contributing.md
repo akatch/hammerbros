@@ -1,8 +1,9 @@
 ---
-title: 'Contributing'
+title: 'How To: Contribute to this website'
 date: 2021-09-17T21:51:43-05:00
-draft: true
 description: 'Help make our knowledge base better!'
+tags:
+- howto
 ---
 See something that needs to be changed? Want to add something you think we're missing? Please fork this website on Github and create a pull request with your changes!
 #### NOTE: You will need to create a GitHub account to submit proposed changes. Registration is fast and easy.

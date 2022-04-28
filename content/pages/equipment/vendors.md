@@ -1,6 +1,7 @@
 ---
 title: 'Vendors'
 date: 2021-09-15T17:52:43-05:00
+lastmod: 2022-04-26T22:51:00-05:00
 description: 'A list of recommended blacksmithing suppliers'
 tags:
 - equipment
@@ -81,12 +82,13 @@ eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop
 
 ## Europe
 [BRISA](https://www.brisa.fi/) (Wide selection of materials and tools including  knife blades, knife steels, wood, leather, antler and  synthetic materials for knife handles.)\
-[Techniek Webshop](https://www.techniekwebshop.nl/aandrijftechniek/staal-en-kunststoffen/stafmateriaal-staal/as-materiaal-en-bussen-blank/) (1045, 1040)\
+[Techniek Webshop](https://www.techniekwebshop.nl/aandrijftechniek/staal-en-kunststoffen/stafmateriaal-staal/as-materiaal-en-bussen-blank/) (1035, 1045, 4140)\
 [Angele Shop](https://www.angele-shop.com/shop/en/) (H13, S1, 1045)\
 [Eurotechni](https://www.eurotechni.com/en/)\
 [GFS Knife Supplies](https://www.gfsknifesupplies.com/)\
-[Dictum](https://www.dictum.com/en/) (Japanese steels)
+[Dictum](https://www.dictum.com/en/) (Japanese steels)\
+[Jatagan](https://www.jatagan.eu/en/make-a-knife/steel-for-knifemaking/) (Knifemaking steel and supplies)
 
 ## Australia
-[Artisan Supplies](https://www.artisansupplies.com.au/)
-https://www.anyangaustralia.com.au/
+[Artisan Supplies](https://www.artisansupplies.com.au/)\
+[Anyang Australia](https://www.anyangaustralia.com.au/)

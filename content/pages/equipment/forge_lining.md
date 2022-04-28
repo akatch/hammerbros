@@ -1,10 +1,12 @@
 ---
-title: "Lining Your Forge"
+title: "How To: Line a Gas Forge"
 date: 2021-09-25T11:03:22-05:00
+lastmod: 2022-04-26T20:15:42-05:00
 description: "A proper forge lining is crucial to your safety and ability to keep smithing for decades to come. Read on to get an overview of the process for correctly and safely lining your forge."
 tags:
 - safety
 - equipment
+- howto
 ---
 ![A Facebook post by Chuck Wright from 20 January 2017. It contains two chest X-rays side by side. The text reads: "Coat your ceramic wool insulation!!!!! If there was ever an argument on the rapid progression of silicosis as one form of exposure associated interstitial fibrosis these pictures say it all. I have taken all patient ID information off of the images for patient privacy. I would like to thank our patient blacksmith for the use of his images. The image on the the left is a normal late teen lung X-ray, the image on the right is this weeks X-ray of the same patient who is now 26 works in an office setting and only exposure to ceramic fibers is the insulation lining of his home forges."](/chuck-wright-chest-xrays.png)
 
@@ -41,7 +43,7 @@ Always wear a respirator and gloves while handling uncured refractory and unrigi
 1. Reinstall the forge burners.
 1. Bring the forge up to heat *very slowly*, making sure to *turn the forge off and let it cool completely* each time it starts to steam.
 
-### Refract
+### Apply refractory
 1. Remove the forge burners.
 1. Lightly spray the ceramic wool with clean water, just enough to moisten it slightly.
 1. Mix about *half* of your refractory according to the manufacturer's instructions. We will use the other half later.
@@ -52,12 +54,12 @@ Always wear a respirator and gloves while handling uncured refractory and unrigi
 At this stage, check carefully for cracks and holes. If you see fiber, repair it in the next stage
 {{< /notice >}}
 
-### Refract 2.0
+### Apply more refractory
 1. Remove the forge burners.
 1. Lightly spray the first layer of cured refractory with water.
 1. Mix the remaining refractory according to the manufacturer's instructions.
 1. Apply the remaining refractory to the inside of your forge, making sure to focus on any cracks that may have formed.
 1. Let dry at least 24 hours, then repeat heat cure instructions above.
 
-### Optional: Refractory Coating
+### Optional: Refractory coating
 To improve your forge's efficiency and increase its maximum temperature, you can optionally apply ITC-100 high temperature ceramic coating to your forge. Follow the included instructions to apply this product.

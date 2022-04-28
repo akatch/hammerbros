@@ -20,6 +20,4 @@ tags:
 
 ## Tool mounting
 [Tool mounting help guide](https://cdn.discordapp.com/attachments/292897034606870530/338868883119144980/lec09.pdf) (includes power hammers, grinders, lathes, etc)\
-[Sledge anvil mount](https://discord.com/channels/251051817398435841/251051817398435841/854014443405705227)\
-[Sledge head anvil mount video](https://clips.twitch.tv/SnappyFragileShrewOSsloth-iAdROlAU0AUX4R-x)\
 [Large chunk of round steel mount](https://discord.com/channels/251051817398435841/251054378062970880/778443973340561420)\
