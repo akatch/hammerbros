@@ -1,7 +1,7 @@
 ---
 title: 'Equipment and Material Recommendations'
 date: 2021-09-15T17:46:45-05:00
-lastmod: 2022-01-08T01:17:48-05:00
+lastmod: 2022-04-26
 description: 'Our recommendations for basic blacksmithing equipment and materials'
 keywords: [""]
 tags:
@@ -14,7 +14,7 @@ tags:
 * Upright railroad track (Google Anvilfire)
 
 {{< notice tip >}}
-Check out our [DIY tooling page](/pages/equipment/diy/#tool-mounting) for tips on mounting your anvil
+Check out our [how-to guide](/pages/equipment/sledgehammer_anvil) for tips on mounting your sledgehammer anvil
 {{< /notice >}}
 
 ## Hammer

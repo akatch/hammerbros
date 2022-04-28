@@ -78,7 +78,7 @@ eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop
 [Peavey Mart](https://www.peaveymart.com/) (not ideal for shipping)\
 [General Steel](https://gensteel.com/) (bulk steel)\
 [Metal Supermarket](https://www.metalsupermarkets.com/barrie/) (expensive, but many options)\
-[Canadian Forge and Farrier](https://canadianforge.com/) (west Edmonton establishment offering high carbon billets for knifemaking)\
+[Canadian Forge and Farrier](https://canadianforge.com/) (west Edmonton establishment offering high carbon billets for knifemaking)
 
 ## Europe
 [BRISA](https://www.brisa.fi/) (Wide selection of materials and tools including  knife blades, knife steels, wood, leather, antler and  synthetic materials for knife handles.)\
