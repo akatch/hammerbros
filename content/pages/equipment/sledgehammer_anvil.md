@@ -1,7 +1,6 @@
 ---
 title: "How To: Mount a Sledgehammer Anvil"
 date: 2022-04-26T20:15:42-05:00
-draft: true
 description: "A heavy sledgehammer head makes a great beginner's anvil. Here's one way to make sure yours is mounted properly."
 tags:
 - howto
