@@ -15,7 +15,7 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 [[params.social]]
 icon = "ti-game"
 name = "Discord"
-link = "https://discord.gg/BtbaZCDv"
+link = "https://discord.gg/ge7CQxy3Zv"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
@@ -44,7 +44,7 @@ content = "Still need help? Looking to show off your work? Just want to say hi? 
 [Languages.en.params.cta.button]
 enable = true
 label = "Chat with us"
-link = "https://discord.gg/BtbaZCDv"
+link = "https://discord.gg/ge7CQxy3Zv"
 
 [[Languages.en.menu.main]]
 name = "Home"
