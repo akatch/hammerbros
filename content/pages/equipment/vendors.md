@@ -1,7 +1,7 @@
 ---
 title: 'Vendors'
 date: 2021-09-15T17:52:43-05:00
-lastmod: 2022-04-26T22:51:00-05:00
+lastmod: 2022-12-03
 description: 'A list of recommended blacksmithing suppliers'
 tags:
 - equipment
@@ -38,27 +38,27 @@ We do not recommend purchasing anvils from Harbor Freight or other big box hardw
 ## Canada
 [Welding supplies](https://canadaweldingsupply.ca/)\
 [Sandpaper and abrasives](https://sandpaper.ca/)\
-Hardware [BoltsPlus](https://boltsplus.ca/index.php) | [Grainger Canada](https://www.grainger.ca/en)
-Refractory [The Pottery Supply House](https://psh.ca/pages/insulating-material-repair) | [Tucker's Pottery eShop](https://tuckerspotteryeshop.com/product-category/kiln_accessories_and_parts/kiln-repair)
+Hardware [BoltsPlus](https://boltsplus.ca/index.php) | [Grainger Canada](https://www.grainger.ca/en)\
+Refractory [The Pottery Supply House](https://psh.ca/pages/insulating-material-repair) | [Tucker's Pottery eShop](https://tuckerspotteryeshop.com/product-category/kiln_accessories_and_parts/kiln-repair)\
 [Thak](https://www.thak.ca/shop/)\
 [Ontario Blacksmiths](https://ontarioblacksmiths.ca/resources/)\
 [Kootenay Blacksmiths](https://kootenay-blacksmiths.ca/suppliers-and-other-resources/)
 
 # Tooling Auctions
 ## US
-https://www.bidspotter.com/en-us/auction-catalogues
+https://www.bidspotter.com/en-us/auction-catalogues\
 https://hibid.com/
 
 ## Canada
-https://www.gcsurplus.ca/mn-eng.cfm?snc=hm
-https://auctionsontario.ca/
+https://www.gcsurplus.ca/mn-eng.cfm\
+https://auctionsontario.ca/\
 https://www.govdeals.ca/
 
 # Bladesmithing supplies
 ## Canada
-https://maritimeknifesupply.ca/
-https://knifemakerdirect.ca/
-https://www.knifemaker.ca/
+https://maritimeknifesupply.ca/\
+https://knifemakerdirect.ca/\
+https://www.knifemaker.ca/\
 https://www.profarriersupply.com/
 
 # Steel

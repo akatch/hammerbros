@@ -21,7 +21,7 @@ tags:
 [DIY 2x72 grinder](https://dcknives.blogspot.com/p/2-x-72-belt-grinder.html) | [Motor info](https://dcknives.blogspot.com/p/grinder-motors.html)
 
 ## Hammers
-[Ray Clontz tire hammer, designed by Clay Spencer](ihttp://tirehammer.org/tirehammer.com/th%20website/Tire_Hammer.html)
+[Ray Clontz tire hammer, designed by Clay Spencer](http://tirehammer.org/tirehammer.com/th%20website/Tire_Hammer.html)
 
 ## Tool mounting
 [Tool mounting help guide](https://cdn.discordapp.com/attachments/292897034606870530/338868883119144980/lec09.pdf) (includes power hammers, grinders, lathes, etc)\

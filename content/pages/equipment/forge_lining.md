@@ -1,7 +1,7 @@
 ---
 title: "How To: Line a Gas Forge"
 date: 2021-09-25T11:03:22-05:00
-lastmod: 2022-04-26T20:15:42-05:00
+lastmod: 2022-12-03
 description: "A proper forge lining is crucial to your safety and ability to keep smithing for decades to come. Read on to get an overview of the process for correctly and safely lining your forge."
 tags:
 - safety
@@ -19,9 +19,9 @@ Always wear a respirator and gloves while handling uncured refractory and unrigi
 
 ## You Will Need
 ### Materials
-* [Ceramic wool blanket](http://www.hightemptools.com/inswool.html) (Provides insulation and thermal mass to the forge)
-* [Rigidizer (bottom of page)](http://www.hightemptools.com/refractorycoatings.html) (Stabilizes the ceramic wool fibers)
-* [Castable refractory](http://www.hightemptools.com/castablerefractory.html) (Protects the rigidized ceramic wool from damage by normal wear and tear)
+* Ceramic wool blanket [High Temp Tools](http://www.hightemptools.com/inswool.html) | [Amazon]() (Provides insulation and thermal mass to the forge)
+* Rigidizer [Amazon](https://smile.amazon.com/dp/B08S5SY61X/) (Stabilizes the ceramic wool fibers)
+* Castable refractory [High Temp Tools](https://hightemptools.com/products/kast-o-lite-30-5?_pos=4&_sid=2ba9c4c92&_ss=r) | [Amazon](https://smile.amazon.com/dp/B095XJ1BDB/) (Protects the rigidized ceramic wool from damage by normal wear and tear)
 * Optional: ITC-100 [High Temp Tools](http://www.hightemptools.com/itcproducts.html) | [Amazon](https://amazon.com/Volcano-ITC-100HT-Temperature-Reflector-Refractory/dp/B096RNM3CQ)
 
 ### Equipment
