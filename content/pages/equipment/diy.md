@@ -1,6 +1,7 @@
 ---
 title: "Build Your Own Tools"
 date: 2021-09-15T21:08:45-05:00
+lastmod: 2022-12-03
 tags:
 - equipment
 - education
@@ -14,10 +15,14 @@ tags:
 
 ## Ovens
 [Heat treat oven](https://ibuildit.ca/projects/heat-treatment-oven/)\
-[Heat treat kiln](https://www.reddit.com/r/Bladesmith/comments/2r1khw/kiln_build_per_request/)\
+[Heat treat kiln](https://www.reddit.com/r/Bladesmith/comments/2r1khw/kiln_build_per_request/)
+
 ## Grinders
-[DIY 2x72 grinder](https://dcknives.blogspot.com/p/2-x-72-belt-grinder.html) | [Motor info](https://dcknives.blogspot.com/p/grinder-motors.html)\
+[DIY 2x72 grinder](https://dcknives.blogspot.com/p/2-x-72-belt-grinder.html) | [Motor info](https://dcknives.blogspot.com/p/grinder-motors.html)
+
+## Hammers
+[Ray Clontz tire hammer, designed by Clay Spencer](ihttp://tirehammer.org/tirehammer.com/th%20website/Tire_Hammer.html)
 
 ## Tool mounting
 [Tool mounting help guide](https://cdn.discordapp.com/attachments/292897034606870530/338868883119144980/lec09.pdf) (includes power hammers, grinders, lathes, etc)\
-[Large chunk of round steel mount](https://discord.com/channels/251051817398435841/251054378062970880/778443973340561420)\
+[Large chunk of round steel mount](https://discord.com/channels/251051817398435841/251054378062970880/778443973340561420)
