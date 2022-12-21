@@ -18,6 +18,7 @@ if [[ "$new_commits" != "" ]]; then
     printf "Found new commits:\n%s\n" "$new_commits"
     git merge
     hugo
+    touch .built
 fi
 
 exit 0
