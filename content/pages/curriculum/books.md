@@ -1,7 +1,7 @@
 ---
 title: 'Books'
 date: 2021-09-15T17:53:20-05:00
-lastmod: 2022-12-03
+lastmod: 2022-12-27
 description: 'A list of recommended reading materials'
 tags:
 - education
@@ -25,7 +25,7 @@ Backyard Blacksmith by Lorelei Sims
 
 [Introducción a la Cuchillería (por forja y desbaste) Autor Marcelo](https://drive.google.com/file/d/1SJH65p0jgq0FBAO0mYDb17YI4Xzbw_QJ/view?usp=sharing)
 
-[Idiot's Guide to Welding Electrode](/docs/Idiots_Guide_to_Welding_Electrode.pdf) by our very own @Demiurge
+[Idiot's Guide to Welding Electrode](/docs/Idiots_Guide_to_Welding_Electrode_V2.pdf) by our very own @Demiurge
 
 [Wrought Ironwork: Forms, Production, Assembly](https://www.goodreads.com/book/show/15096198-wrought-ironwork?from_search=true&from_srp=true&qid=j8k0E8sN6q&rank=2)
 
