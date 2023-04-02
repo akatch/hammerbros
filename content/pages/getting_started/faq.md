@@ -1,6 +1,6 @@
 ---
 title: "Frequently Asked Questions"
-date: 2021-09-15T12:36:10-05:00
+date: 2023-04-02T03:46:00-05:00
 description: "Some questions that are frequently asked"
 weight: 2
 tags:
@@ -29,4 +29,8 @@ At high temperatures, materials including but not limited to **cinderblocks, mas
 {{< /notice >}}
 
 Instead, line your forge with refractory brick rated to 2300 degrees Fahrenheit or more. Alternatively, use a rigidized ceramic wool blanket coated with castable refractory. Check out some tried-and-true [forge builds](/pages/equipment/diy/#forges) for inspiration.
+{{</ faq >}}
+
+{{< faq "Do you know of any smiths, workshops, etc. in my area?" >}}
+While we do have well-connected members spanning many regions (even globally), we can't speak on behalf of every area. Try searching online for credible guilds / associations / organizations etc. that are located in your city/region. For example, in North America, there are a lot of regional affiliates listed on [the Artist-Blacksmith's Association of North America (ABANA)'s website.](https://abana.org/affiliates/directory/)
 {{</ faq >}}
