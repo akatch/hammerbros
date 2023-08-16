@@ -1,7 +1,7 @@
 ---
 title: 'Vendors'
 date: 2021-09-15T17:52:43-05:00
-lastmod: 2022-12-03
+lastmod: 2023-08-16
 description: 'A list of recommended blacksmithing suppliers'
 tags:
 - equipment
@@ -16,7 +16,7 @@ tags:
 
 # Anvil retailers
 {{< notice info >}}
-We do not recommend purchasing anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.
+We do not recommend purchasing most blue painted anvils from Harbor Freight or other big box hardware stores. These anvils are frequently cast iron and of inconsistent quality.
 {{< /notice >}}
 ## US
 [Atlas Knifemaker](http://www.atlasknife.com/)\
@@ -28,6 +28,7 @@ We do not recommend purchasing anvils from Harbor Freight or other big box hardw
 
 ## Accessories
 [Rivets & Bolts](https://www.blacksmithbolt.com/)\
+[Hammer handles](http://househandle.com)\
 [Hammer wedges](http://www.tacofasteners.com/products.html)\
 [Axe & Round wedges](https://www.shforestrysupplies.com/advancedwebpage.aspx?cg=2557&cd=4&SBCatPage=)\
 [Custom leather drive belts](http://www.leatherdrivebelts.com/2.html)\
