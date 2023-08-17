@@ -15,15 +15,15 @@ tags:
 
 ## YouTube
 ### Videos
-[7 Basic Skills with Black Bear Forge](https://www.youtube.com/watch?v=6KDfia6izrk)
-[One-Heat Hook by @JamesTheBlacksmith](https://youtu.be/fvz8k68SKcY)
+[7 Basic Skills with Black Bear Forge](https://www.youtube.com/watch?v=6KDfia6izrk)\
+[One-Heat Hook by @JamesTheBlacksmith](https://youtu.be/fvz8k68SKcY)\
 [Blade Sharpness vs Geometry](https://youtu.be/7J5nYBPvMgU)\
 [Scroll Theory](https://www.youtube.com/watch?v=k6ZLGoyiZ2A)\
-[Forging a Scroll Form](https://www.youtube.com/watch?v=B0x2al4HroQkk)
+[Forging a Scroll Form](https://www.youtube.com/watch?v=B0x2al4HroQkk)\
 [Forging Ring Finials with @AkersRidgeForge](https://youtu.be/0UwvjIluSms)
 
 ### Playlists
-[Getting Started with Mark Aspery](https://www.youtube.com/playlist?list=PL0_1OzAA4gHWSHaA9MfchADOBN4p-pkAJ)
+[Getting Started with Mark Aspery](https://www.youtube.com/playlist?list=PL0_1OzAA4gHWSHaA9MfchADOBN4p-pkAJ)\
 [Bladesmith stuff](https://www.youtube.com/playlist?list=PLvQwRbvPS1_i9uX18LavF3wpirIHEbyQa)\
 [Katana related](https://www.youtube.com/playlist?list=PLvQwRbvPS1_g4AtyTISdkCs81XEqDJFN-)\
 [Blacksmith stuff](https://www.youtube.com/playlist?list=PLvQwRbvPS1_hUfbtSjjQlyIeo-797TLJn)\
