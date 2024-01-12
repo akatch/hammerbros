@@ -56,5 +56,5 @@ Check out our [forge lining page](/pages/equipment/forge_lining) for an overview
 [Electric inline duct fan](https://www.ebay.com/itm/iPower-4-6-8-Inch-Inline-Duct-Fan-Variable-Speed-Controller-HVAC-Blower-Kit/163765156989)
 
 ## Amity
-[1x30 Grinder](https://www.harborfreight.com/1-in-x-30-in-belt-sander-61728.html)\
+[1x30 Grinder](https://www.harborfreight.com/1-in-x-30-in-belt-sander-58359.html)\
 [Easy entry level welder](https://www.harborfreight.com/easy-flux-125-amp-welder-57861.html)
