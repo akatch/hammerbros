@@ -10,6 +10,7 @@ weight: 4
 ## Books
 * [Armourers and their Workshops: The Tools and Techniques of Late Medieval Armour Production | Nickolas Dupras](https://etheses.whiterose.ac.uk/4376/)
 * [Techniques of Medieval Armour Reproduction: The 14th Century | Brian Price](https://www.dropbox.com/s/p7x4jre1twcdyc5/Techniques%20of%20Medieval%20Armour%20Reproduction%20The%2014th%20Century%20by%20Brian%20R.%20Price%20(z-lib.org).pdf?dl=0)
+* [Tips, Techniques, Tools, Sources and Resources: For the Armourer | Douglas W. Strong, Historical Research Press](https://www.dropbox.com/scl/fi/hspwr5ey4s8kqbiu0vr7j/armourer.pdf?rlkey=ht551gbrek66gwpkg0qirp2i9&dl=0)
 ## Other- presentations, boards, charts, etc.
 * [Armour thicknesses Pinterest board](https://www.pinterest.com/Arm_the_Armour/armor-thickness-measurements/?invite_code=18afe9f65b0d4b158e3ff77737362b88&sender=526358412607404173)- Arm_The_Armour
 * [Armour thicknesses Presentation](https://docs.google.com/presentation/d/1DLlrwJV7mx6-fZjQxfI5Yo7e-gOObpcxkDfSQ70MauQ/edit#slide=id.p)- Alan Williams, Wade Allen, Rene Kohlstruck, Matthias Goll, Arm_The_Armour
