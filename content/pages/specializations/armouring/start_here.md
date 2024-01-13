@@ -3,6 +3,7 @@ title: "Armouring"
 description: "Resources and guidance on creating medieval armour."
 weight: 1
 ---
+#### *The armouring section of the wiki is written and maintained by Amity. Please reach out to amityw on Discord if you have questions or wish to contribute.*
 ## Basic info on Armouring
 ### Intro
 Armouring is a mastery of metalwork, and often considered one of the hardest practices to pursue in metalworking. It requires a lot of practice, as well as a significant amount of study. Anyone can be a good armourer, and anyone can be a great armourer; it does, however, require a large amount of dedication and focus on learning.\
