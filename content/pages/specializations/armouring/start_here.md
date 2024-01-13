@@ -1,6 +1,7 @@
 ---
 title: "Armouring"
 description: "Resources and guidance on creating medieval armour."
+weight: 1
 ---
 ## Basic info on Armouring
 ### Intro
