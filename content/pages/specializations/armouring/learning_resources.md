@@ -7,8 +7,18 @@ weight: 4
 [This page has many patterns for different pieces of armour, including most things that people commonly want to make.](https://www.armourarchive.org/patterns/)
 ## Youtube Channels
 * [Greenleaf Workshop](https://www.youtube.com/@GreenleafWorkshop)- Great resource for beginners and journeymen alike.
-* [Armorysmith](https://www.youtube.com/@howtomakearmor)- Forges a lot of "fun" armour from movies and such that isn't exactly historical, but forges some good historical stuff too. Currently deployed in Ukraine, may never make another video.
+* [Armorysmith- How to Make Armor](https://www.youtube.com/@howtomakearmor)- Forges a lot of "fun" armour from movies and such that isn't exactly historical, but forges some good historical stuff too. Currently deployed in Ukraine, may never make another video.
+* [Armorysmith- Art of Armor](https://www.youtube.com/@ArmorySmith) - Another of Armorysmith's channels
+* [Armorysmith- World of Armor](https://youtube.com/@ArmorySmithWorkshop)- Another Armorysmith channel
 * [Knyght Errant](https://www.youtube.com/channel/UC1T4KJG1L_kTrP9RcdU5Csw)- Altogether Renaissance youtuber. Makes a lot of videos about generalized historical study, but also has a decent amount of videos focused on armour and its composition/creation.
+* [Albert Collins](https://youtube.com/@albertcollins6427)
+* [Armure Dubé](https://youtube.com/@ArmureDube)
+* [Ironskin](https://youtube.com/@Ironskin)
+* [Living Manuscript](https://youtube.com/@LivingManuscript)
+* [Stacho Wołoszyn- Workshop](https://youtube.com/@stacho-armouringblacksmith3228)
+* [Radoslaus](https://youtube.com/@TheRADOSLAUS)
+* [Андрей Юманов](https://youtube.com/@user-hj1xc7co7f)
+* [Morwyn le Fay](https://youtube.com/@Morwyn_le_Fay?si=aw4wcqVJQrm2CxVF)
 ## Books
 * [Armourers and their Workshops: The Tools and Techniques of Late Medieval Armour Production | Nickolas Dupras](https://etheses.whiterose.ac.uk/4376/)
 * [Techniques of Medieval Armour Reproduction: The 14th Century | Brian Price](https://www.dropbox.com/s/p7x4jre1twcdyc5/Techniques%20of%20Medieval%20Armour%20Reproduction%20The%2014th%20Century%20by%20Brian%20R.%20Price%20(z-lib.org).pdf?dl=0)
