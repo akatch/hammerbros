@@ -34,4 +34,5 @@ tags:
 [Joey van der Steeg](https://www.youtube.com/channel/UCQXBXA3pXM5A-skemMLMrug)\
 [Mark Aspery](https://www.youtube.com/user/MarkAspery)\
 [Torbjörn Åhman](https://www.youtube.com/user/torbjornahman)\
-[Brent Bailey](https://www.youtube.com/channel/UCmJ3R3FIdB247BBCNWqVkPQ)
+[Brent Bailey](https://www.youtube.com/channel/UCmJ3R3FIdB247BBCNWqVkPQ)\
+@AkersRidgeForge[YouTube](https://www.youtube.com/@akersridgeforge2685) | [Twitch.tv](https://www.twitch.tv/akersridgeforge)
