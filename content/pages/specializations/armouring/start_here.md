@@ -12,7 +12,7 @@ To learn armouring, it is heavily recommended to not only practice making the pi
 
 ### Terminology
 The page is written under the assumption that the reader is familiar with all of the terminology. This terminology will be listed here, both for education, and for ease of access. In no particular order:
-* Maille- What "Chainmail" is actually called. Chainmail is a modern misnomer.
+* Maille- What "Chainmail" is actually called. Chainmail and 'platemail' are both modern misnomers, and inaccurate to the period.
 * Planishing- Striking the surface of plates on a flat and polished object, as to smooth out divots and hammer marks in the piece.
 * Extant- A surviving historical piece. If a piece of armour in a museum was created during the Renaissance, then it is an armour extant.
 * Dishing- Striking a piece into a "divot" or depression, in order to form curves.
