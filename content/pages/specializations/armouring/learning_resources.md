@@ -3,6 +3,8 @@ title: "Resources"
 description: "A collection of sources, references, and resources for learning."
 weight: 4
 ---
+# The holy grail of this section- The pattern archive.
+[This page has many patterns for different pieces of armour, including most things that people commonly want to make.](https://www.armourarchive.org/patterns/)
 ## Youtube Channels
 * [Greenleaf Workshop](https://www.youtube.com/@GreenleafWorkshop)- Great resource for beginners and journeymen alike.
 * [Armorysmith](https://www.youtube.com/@howtomakearmor)- Forges a lot of "fun" armour from movies and such that isn't exactly historical, but forges some good historical stuff too. Currently deployed in Ukraine, may never make another video.
