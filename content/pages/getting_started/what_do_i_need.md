@@ -2,14 +2,14 @@
 title: What Do I Need?
 description: Read on to learn about the basics you'll need to get started on your blacksmithing journey.
 date: 2023-05-31T18:06:48-05:00
-lastmod: 2024-01-11
-draft: true
+lastmod: 2024-01-12
 ---
-# TLDR: Shop Recommendations by Budget
+# tldr: Recommendations by Budget
+
 ## Shoestring
 - Hammer: Crosspein, rounding, or drilling hammer from your local big box store
 - Forge: [Just a Box of Dirt](/pages/equipment/jabod)
-- Anvil: [Sledgehammer head]() or 4140/1045 offcut
+- Anvil: [Sledgehammer head](/pages/equipment/sledgehammer_anvil) or 4140/1045 offcut
 - Tongs: Use long stock or [Ken's Custom Iron]() tong blanks
 
 ## Economy
@@ -81,7 +81,7 @@ Our recommendations:\
 [King KDS 1000/6000 grit combination stone](https://www.amazon.com/KDS-Combination-Whetstone-Sharpening-Harder/dp/B01BB1ZDVW)
 [King KW65 1000/6000 grit combination stone with plastic base](https://www.amazon.com/KING-KW65-Combination-Whetstone-Plastic/dp/B001DT1X9O)
 
-## Going Pro: As in production
+## Going pro (as in production)
 None of the equipment mentioned in this section is needed in a beginner's shop, but if you're looking to produce at scale, you may want to consider investing in a machine or two.\
 
 Our recommendations:\

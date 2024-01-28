@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 date: 2021-09-15T12:36:10-05:00
-lastmod: 2024-01-11
+lastmod: 2024-01-12
 description: "Some questions that are frequently asked"
 weight: 2
 tags:
@@ -15,7 +15,7 @@ Welcome! We're so glad you're here! Before you read any further, please [watch t
 {{</ faq >}}
 
 {{< faq "What kinds of projects are good for beginners??" >}}
-We've got a list of suggested project tracks for beginners on [this page](/pages/getting_started_what_should_i_make).
+We've got a list of suggested project tracks for beginners on [this page](/pages/getting_started/what_should_i_make).
 {{</ faq >}}
 
 {{< faq "What anvil/forge/hammer/tongs should I get?" >}}

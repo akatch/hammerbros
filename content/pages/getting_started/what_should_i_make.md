@@ -2,8 +2,7 @@
 title: What Should I Make?
 description: Looking for project ideas? This page is for you!
 date: 2023-05-31T18:06:38-05:00
-lastmod: 2024-01-10
-draft: true
+lastmod: 2024-01-12
 ---
 # Projects for Beginning Blacksmiths
 These projects are great for beginners, no matter where your interests lie. Aside from producing useful objects, they also train fundamental blacksmith skills, like punching and drifting holes and drawing out a clean taper. They will also help you understand how hot metal moves and prepare you for more advanced projects. If you're just getting started, try some of these:
