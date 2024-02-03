@@ -19,4 +19,4 @@ quite dramatic. Keep hammering with the round side of a ball peen hammer until y
 \
 ![The shoulder cop should begin to take a dramatic curved shape like so.](images/armouring/tutorial/tut3.jpg)
 \
-
+Next, you want to begin the same process for the lames, hammering towards the middle of them and sometimes closer to the edges in your dish in order to curve them to the shape of the arm.
