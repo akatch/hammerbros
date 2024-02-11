@@ -1,7 +1,9 @@
 ---
 title: "How To: Build a JABOD Forge"
 description: A forge that is literally Just A Box Of Dirt
-date: 2023-06-02T07:59:00-05:00
+date: 2024-02-02
+tags:
+- jabod
 draft: true
 ---
 [JABOD Forge](https://www.youtube.com/watch?v=m-R6iY-mY-Y)\
