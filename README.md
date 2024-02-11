@@ -11,6 +11,7 @@ Clone this repo and start the development server
 ```shell
 git clone https://github.com/akatch/hammerbros
 cd hammerbros/
+git submodule update --init --recursive
 hugo server
 ```
 
