@@ -8,7 +8,6 @@ tags:
 - equipment
 keywords:
 - jabod
-draft: true
 ---
 Building a solid fuel forge is easier than you might thing and costs almost nothing.
 
@@ -37,7 +36,9 @@ Cut a hole in your box big enough for the hose to fit snugly
 
 ### Put your dirt in that box
 
-Fill the box with dirt, forming a conical indent about [TODO FIND SIZE]
+Fill the box with dirt, forming a conical indent about 6 inches (15cm) in diameter and 4 inches (10cm) deep. This indentation will be your "fire box".
+
+Ensure the pipe extends into the fire box and is unobstructed.
 
 ### Connect the blower
 
