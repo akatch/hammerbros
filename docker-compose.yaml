@@ -1,0 +1,10 @@
+---
+version: "3.8"
+services:
+  hugo:
+    image: docker.io/betterweb/hugo:latest
+    entrypoint: [ "hugo", "serve", "-D", "--bind", "0.0.0.0" ]
+    ports:
+      - "1313:1313"
+    volumes:
+      - ".:/home/app"
