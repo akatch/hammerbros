@@ -7,11 +7,13 @@ tags:
 ---
 {{< notice warning >}}
 Always wear a respirator and eye protection when grinding metal
+
+Never operate an angle grinder without the guard securely installed
 {{< /notice >}}
 
 ## Why should I do this?
 
-Dressing your hammer face will prevent unsightly marks left by the edges on the faces of most commercially produced hammers.
+Dressing your hammer face will prevent unsightly marks left by the edges on the faces of most commercially produced hammers. It is also a way to reprofile the hammer face, making it more (or less) convex and thus more (or less) aggressive in moving material.
 
 ## You Will Need
 

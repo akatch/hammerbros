@@ -10,9 +10,9 @@ This article hopes to answer that very question.
 
 ## PPE
 
-These things are non-optional no matter your budget.
+These things are *non-optional* no matter your budget.
 
-Eye protection and hearing protection are essential equipment - don't skip this section. Eyeglasses or sunglasses will work, but a pair of dedicated safety glasses or a face shield are better choices. A respirator is generally not required for general forging activities, but is a really good thing to have on hand for [preparing your propane forge for its first use][how to line your forge], burning off harmful compounds, or grinding.
+Eye protection and hearing protection are essential equipment - don't skip this section. Even if you aren't using power tools, extended exposure to the noise associated with hammering can do lasting damage to your hearing. Likewise, bits of flying metal are always a risk in any workshop - make sure this shrapnel hits your eye pro instead of your eyes. Eyeglasses or sunglasses will work, but a pair of dedicated safety glasses or a face shield are better choices. A respirator is generally not required for general forging activities, but is a really good thing to have on hand for [preparing your propane forge for its first use][how to line your forge], burning off harmful compounds, or grinding.
 
 * Eye protection - ANSI-rated [face shield][] or safety glasses
 * Hearing protection - [earplugs][] or muffs
@@ -39,7 +39,7 @@ If you've got a little more cash to burn, these options might make your life a l
 
 * Hammer: 2-2.5lb (900-1100g) crosspein, rounding, or drilling hammer from your local big box store. Check out our guide to [dressing your hammer][].
 * Forge: [Mr. Volcano single burner][Mr. Volcano forge]
-* Anvil: [Harbor Freight cast steel anvil][] or check out our [anvil buying guide][]
+* Anvil: [Harbor Freight Doyle cast steel anvil][] or check out our [anvil buying guide][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][].
 
 ### Premium
@@ -54,7 +54,7 @@ Fine goods for the discerning aspiring blacksmith
 ## Nice-to-Haves: Upgrading your shop
 Forging with just the basics will get frustrating fast. A post vise is an excellent upgrade - unlike conventional bench vises, a post vise is designed to stand up to repeated heavy hammering by transferring the force of the hammer blows through the post into the floor.
 
-For folks interested in bladesmithing, a 2x72" belt grinder is essential; the bulk of bladesmithing operations take place at the grinder.
+For folks interested in bladesmithing, a belt grinder is ideal; the bulk of bladesmithing operations take place at the grinder. If you're on a budget, a [1x30][] belt grinder will get you started, but if you have a bit more to spend, a [2x72][] is a worthwhile investment. However, if a belt grinder isn't an option for you, an angle grinder or even a set of [files][Pferd files], together with a bit of patience, will yield perfectly respectable results.
 
 ### Our recommendations:
 
@@ -74,7 +74,7 @@ Our recommendations:\
 * Heat treat oven
 
 [jabod]: /pages/equipment/jabod
-[Harbor Freight cast steel anvil]: https://www.harborfreight.com/65-lb-cast-steel-anvil-58924.html
+[Harbor Freight Doyle cast steel anvil]: https://www.harborfreight.com/65-lb-cast-steel-anvil-58924.html
 [Ken's Custom Iron tong blanks]: https://kensironstore.com/collections/quick-tongs
 [Mr. Volcano forge]: https://mrvolcano.com/collections/the-forge
 [Chile forge]: https://chileforge.com/
@@ -93,3 +93,4 @@ Our recommendations:\
 [TIG welder]: https://ahpwelds.com/
 [1x30]: https://www.harborfreight.com/1-in-x-30-in-belt-sander-61728.html
 [2x72]: https://reederproducts.com/
+[Pferd files]: https://us.pferd.com/en/products/files

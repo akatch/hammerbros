@@ -21,6 +21,8 @@ Where do your interests lie? Your personal goals as a blacksmith should inform t
 ## Bladesmith Track
 Swords are just long knives, and knives are just long leaves - start there:
 - Leaves
+- Letter openers
+- Knife-shaped objects (knives made of mild steel won't hold an edge, but are more forgiving in both forging and "heat treating")
 - Blacksmith's knife
 - X-Rhea knife
 
@@ -43,5 +45,5 @@ Need a tool? Make a tool! Aside from the basics listed above, consider these opt
 - Decorative hinges
 - Scrollwork
 - Candleholders
-- Animul sculptures (dragons, snakes, [turtles](https://twitter.com/artbyveya/status/1662852985305681921), and horses are popular)
+- Animal sculptures (dragons, snakes, [turtles](https://twitter.com/artbyveya/status/1662852985305681921), and horses are popular)
 - Vines
