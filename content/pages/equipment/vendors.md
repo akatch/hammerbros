@@ -45,6 +45,11 @@ Refractory [The Pottery Supply House](https://psh.ca/pages/insulating-material-r
 [Ontario Blacksmiths](https://ontarioblacksmiths.ca/resources/)\
 [Kootenay Blacksmiths](https://kootenay-blacksmiths.ca/suppliers-and-other-resources/)
 
+## Japan
+SeaForce [Online catalog]() | [Google Maps]() (jewelry and general tooling)\
+[Blacksmith Dojo](https://kajidojo.com/) (offers classes)\
+[Kurashige Tools](https://shop.kurashige-tools.com/en-us/products/hand-made-japanese-blacksmith-tools-hammer-hitsukuri-tsuchi-1) (Tools, mostly for woodworking but some smithing. Ships internationally.)
+
 # Tooling Auctions
 ## US
 https://www.bidspotter.com/en-us/auction-catalogues\

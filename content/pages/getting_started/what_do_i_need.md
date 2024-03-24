@@ -37,7 +37,7 @@ Suggestions for those looking to get started as cheaply as possible.
 
 If you've got a little more cash to burn, these options might make your life a little easier.
 
-* Hammer: 2-2.5lb (900-1100g) crosspein, rounding, or drilling hammer from your local big box store. Check out our guide to [dressing your hammer][].
+* Hammer: [Peddinghaus Swedish pattern][] or 2-2.5lb (900-1100g) crosspein, rounding, or drilling hammer from your local big box store. Check out our guide to [dressing your hammer][].
 * Forge: [Mr. Volcano single burner][Mr. Volcano forge]
 * Anvil: [Harbor Freight Doyle cast steel anvil][] or check out our [anvil buying guide][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][].
@@ -94,3 +94,4 @@ Our recommendations:\
 [1x30]: https://www.harborfreight.com/1-in-x-30-in-belt-sander-61728.html
 [2x72]: https://reederproducts.com/
 [Pferd files]: https://us.pferd.com/en/products/files
+[Peddinghaus Swedish pattern]: https://www.riogrande.com/product/peddinghaus-swedish-pattern-forging-hammer-2.2-lbs/112427GP/?code=112427
