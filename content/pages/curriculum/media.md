@@ -20,7 +20,8 @@ tags:
 [Blade Sharpness vs Geometry](https://youtu.be/7J5nYBPvMgU)\
 [Scroll Theory](https://www.youtube.com/watch?v=k6ZLGoyiZ2A)\
 [Forging a Scroll Form](https://www.youtube.com/watch?v=B0x2al4HroQkk)\
-[Forging Ring Finials with @AkersRidgeForge](https://youtu.be/0UwvjIluSms)
+[Forging Ring Finials with @AkersRidgeForge](https://youtu.be/0UwvjIluSms)\
+[How to Dress your Hammer](https://youtu.be/oaBcr0BMQk4)
 
 ### Playlists
 [Getting Started with Mark Aspery](https://www.youtube.com/playlist?list=PL0_1OzAA4gHWSHaA9MfchADOBN4p-pkAJ)\

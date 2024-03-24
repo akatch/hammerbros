@@ -63,6 +63,7 @@ https://www.knifemaker.ca/\
 https://www.profarriersupply.com/
 
 # Steel
+
 ## US
 [New Jersey Steel Baron](https://newjerseysteelbaron.com/) (blade steel)\
 [Admiral Steel](http://admiralsteel.com/)\
@@ -72,7 +73,8 @@ https://www.profarriersupply.com/
 [Atlantic33 Tool Steel](http://www.atlanticsteelcorp.com/services.html)\
 [Sb Specialty Metals](http://sb-specialty-metals.com/) (exotic steels)\
 eBay steel [1045/4140](https://www.ebay.com/str/oaklandsteel/) | [steel bar drop ends](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steel+bar+drop+ends&_sacat=0)\
-[USA Knifemaker](https://usaknifemaker.com) (blade steel)
+[USA Knifemaker](https://usaknifemaker.com) (blade steel)\
+[Die Supplies.com](https://store.diesupplies.com/storefront.aspx) (square tool steel stock)
 
 ## Canada
 [Princess Auto](https://www.princessauto.com/) (cold rolled mild in 5' lengths, not cheap but will ship)\
