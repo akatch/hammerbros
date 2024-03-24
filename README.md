@@ -14,7 +14,7 @@ hugo server
 ```
 
 ## Container Setup
-Install [podman and podman-compose][podman] or [docker and docker-compose][docker]
+Install [podman][] and [podman-compose][] or [docker and docker-compose][docker]
 
 From the root of this project, run:
 
@@ -35,3 +35,4 @@ hugo new content/pages/my_cool_page.md
 [hugo_extended]: https://gohugo.io/getting-started/installing
 [docker]: https://docs.docker.com/get-docker/
 [podman]: https://podman-desktop.io/docs/intro
+[podman-compose]: https://github.com/containers/podman-compose
