@@ -19,7 +19,7 @@ We've got a list of suggested project tracks for beginners on [this page](/pages
 {{</ faq >}}
 
 {{< faq "What anvil/forge/hammer/tongs should I get?" >}}
-Check out our [What Do I Need](pages/getting_started/what_do_i_need) page for recommendations at every budget.
+Check out our [What Do I Need](/pages/getting_started/what_do_i_need) page for recommendations at every budget.
 {{</ faq >}}
 
 {{< faq "Is a piece of railroad track / I-beam a good beginner anvil?" >}}
