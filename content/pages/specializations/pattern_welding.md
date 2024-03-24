@@ -12,6 +12,8 @@ description: "References for all things related to pattern welding, sometimes kn
 
 [How to etch Damascus Steel](https://flatlineforge.com/2020/12/10/etching-steel/)
 
+[Pattern playground](https://dmt.msbpro.com/#pane=Tile) - Browser app for experimentation with layer counts and techniques
+
 ## Books
 Mokume Gane — A Comprehensive Study by Steven Jacob
 
