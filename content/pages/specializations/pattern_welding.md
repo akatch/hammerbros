@@ -1,14 +1,18 @@
 ---
 title: "Pattern Welding"
 date: 2021-09-15T17:54:49-05:00
+lastmod: 2024-03-24
+description: "References for all things related to pattern welding, sometimes known colloquially as Damascus"
 ---
 
 ## Links
 [Mokume Gane](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.190.5545&rep=rep1&type=pdf)
 
-[Mokume Gane Compatibility Table](https://discordapp.com/channels/251051817398435841/251054378062970880/744699258996916285)
+[Mokume Gane Compatibility Table](/images/mokume-gane-compatibility-chart.jpg)
 
 [How to etch Damascus Steel](https://flatlineforge.com/2020/12/10/etching-steel/)
+
+[Pattern playground](https://dmt.msbpro.com/#pane=Tile) - Browser app for experimentation with layer counts and techniques
 
 ## Books
 Mokume Gane — A Comprehensive Study by Steven Jacob
