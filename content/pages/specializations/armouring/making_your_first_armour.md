@@ -7,7 +7,7 @@ If you've made it this far, then you should be ready to make your first piece of
 # Forming the plates
 First, you want to download the patterns for the spaulders from the pattern archive, and then print them out. Cut the pieces out of the paper and use them to trace the pattern onto your sheet metal.
 \
-![The patterns traced onto metal.](main/static/images/armouring/tutorial/tut1.jpg)
+![The patterns traced onto metal.](static/images/armouring/tutorial/tut1.jpg)
 \
 Once you do this, you need to cut them out of the sheet metal, using: cutoff disk on an angle grinder; bandsaw; beverly shears; or you can file them out with a round file or jeweler's saw. Then, you will want to 
 finish the edges up and make them smoother, using either sandpaper or a belt sander to get rid of the sharp edges and leftover material.
