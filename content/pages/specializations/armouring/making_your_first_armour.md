@@ -1,6 +1,6 @@
 ---
 title: "Making your first piece of armour"
-weight: 5
+weight: 4
 ---
 If you've made it this far, then you should be ready to make your first piece of armour. The starting project for a beginning armourer is a spaulder, the precursor to a pauldron. This section will walk you through that project, using images I took during the process of making my first spaulder and piece of armour when I began. Please note that these instructions are for making the armour out of mild steel, and thus do not mention anything related to heating, annealing, work-hardening, etc.
 # Forming the plates
