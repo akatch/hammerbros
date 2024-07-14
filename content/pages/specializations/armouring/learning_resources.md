@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 description: "A collection of sources, references, and resources for learning."
-weight: 4
+weight: 3
 ---
 # The holy grail of this section- The pattern archive.
 [This page has many patterns for different pieces of armour, including most things that people commonly want to make.](https://www.armourarchive.org/patterns/)
