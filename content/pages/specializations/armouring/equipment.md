@@ -5,7 +5,7 @@ weight: 2
 ---
 # Equipping your shop
 ## Basics
-There are an overwhelming amount of tools at an armourer's disposal. A fully equipped armourer's shop has more tools than most other metalworking pursuits use. This is a significant factor in armouring being such a difficult craft to master. However, it isn't so overwhelming as it seems- most tools seen aren't really necessary, and many are just for quality of life or can be substituted/made.\
+There are a large amount of tools at an armourer's disposal. This is a significant factor in armouring being such a difficult craft to master. However, it isn't so overwhelming as it seems- most tools seen aren't really necessary, and many are just for quality of life or can be substituted/made.\
 \
 To get started, you'll need a minimum of a few tools. These are necessary, and are either required or must be substituted.
 * Ball peen hammers- preferably several sizes. Polish the faces, they should be very smooth.
