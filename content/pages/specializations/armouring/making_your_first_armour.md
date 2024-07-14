@@ -62,7 +62,7 @@ Now, take the measurements of your arm that aren't covered by the spaulder. It s
 Not pictured in the image directly above is that it's recommended to trim both the bottom of the articulation straps (the ones riveted to the cop and lames) and the top of the fitting straps (the ones riveted to the bottom lame with a buckle.) This will help avoid your straps crossing over each other and overlapping.
 \
 \
-After that, the best way to place the notches for the buckle to go through is by wearing it and using a sharpie to mark the dot where it's at the best tightness. It's recommended to punch a couple extra holes in intervals in case it needs to be looser or tighter at any given time. Once this hole is punched, your spaulders should be done and ready to wear. You can also sew a "retainer" onto the buckle side of the strap to hold the excess if needed. 
+After that, the best way to place the notches for the buckle to go through is by wearing it and using a sharpie to mark the dot where it's at the best tightness. It's recommended to punch a couple extra holes in intervals in case it needs to be looser or tighter at any given time. Once this hole is punched, your spaulders should be done and ready to wear. You can also sew a "retainer" onto the buckle side of the strap to hold the excess if needed. Below are some pictures of my first ever spaulder finished. It should be noted that I made mistakes- the lames are not fitted together as well as they could be, and the shoulder cop was not dished deeply enough, among some other mistakes.
 \
 \
 ![](/static/images/armouring/tutorial/tut9.jpg)
