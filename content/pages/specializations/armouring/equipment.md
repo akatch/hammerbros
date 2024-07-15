@@ -26,3 +26,9 @@ To get started, you'll need a minimum of a few tools. These are necessary, and a
 * Trailer hitch- Works amazingly for planishing. Very polished, just make sure the top is ground flat and lock it into a vise. Quite cheap as well.
 ## Common pitfall
 A common pitfall that a lot of beginner armourers make is thinking that they need much more equipment than you do. You don't need a variety of planishing hammers, or a stake anvil, or a kiln. And certainly not an oxy-acy torch. These things may be nice to have, but they are far from necessary (for most applications.) 
+### Dishing stumps
+You should aim for a perfectly round depression- my sharpie marks got jittery because of the uneven wood surface. 
+\
+\
+![](/static/images/armouring/Dishingstump1.jpg)
+![](/static/images/armouring/dishingstump2.jpg)
