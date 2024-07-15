@@ -5,10 +5,11 @@ weight: 2
 ---
 # Equipping your shop
 ## Basics
-There are a large amount of tools at an armourer's disposal. This is a significant factor in armouring being such a difficult craft to master. However, it isn't so overwhelming as it seems- most tools seen aren't really necessary, and many are just for quality of life or can be substituted/made.\
+There are a large amount of tools at an armourer's disposal. This is a significant factor in armouring being such a difficult craft to master. However, it isn't so overwhelming as it seems- most tools seen aren't really necessary, and many are just for quality of life or can be substituted/made.
+\
 \
 To get started, you'll need a minimum of a few tools. These are necessary, and are either required or must be substituted.
-* Ball peen hammers- preferably several sizes. Polish the faces, they should be very smooth.
+* Ball peen hammers- preferably several sizes. Polish the flat face and ball, they should be very smooth. The flat face should also be [dressed](https://www.youtube.com/watch?v=Q5wyhqKtnqo).
 * Something to hit metal on. An anvil is preferred for the horn and heel, as well as the hardy- however, it is not *required.* There are plenty of substitutes for an anvil in other sections of the wiki.
 * Related to the anvil, you will need dishing forms in order to actually create curvature in your armour. This can either be stumps or real metal dishes. This will be elaborated on further down.
 * A vise. This is necessary for holding your work, especially while drilling. A post vise is preferred; however, I've made do with a machinist's vise.
