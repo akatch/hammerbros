@@ -21,13 +21,15 @@ weight: 3
 * [Morwyn le Fay](https://youtube.com/@Morwyn_le_Fay?si=aw4wcqVJQrm2CxVF)
 ## Books
 * [Armourers and their Workshops: The Tools and Techniques of Late Medieval Armour Production | Nickolas Dupras](https://etheses.whiterose.ac.uk/4376/)
-* [Techniques of Medieval Armour Reproduction: The 14th Century | Brian Price](https://www.dropbox.com/s/p7x4jre1twcdyc5/Techniques%20of%20Medieval%20Armour%20Reproduction%20The%2014th%20Century%20by%20Brian%20R.%20Price%20(z-lib.org).pdf?dl=0)
-* [Tips, Techniques, Tools, Sources and Resources: For the Armourer | Douglas W. Strong, Historical Research Press](https://www.dropbox.com/scl/fi/hspwr5ey4s8kqbiu0vr7j/armourer.pdf?rlkey=ht551gbrek66gwpkg0qirp2i9&dl=0)
-* [Basing Armouring: A Practical Introduction to Armour Making, Second Edition | Paul Blackwell](https://www.dropbox.com/scl/fi/eq83lzpuo8j0rtl8x54e0/Basic-Armouring.pdf?rlkey=3gf8qvjrk5xnu2i890e8tqy5b&dl=0)
-* [The Complete Great Bascinet: Techniques of Construction | Douglas W. Strong, Historical Research Press](https://www.dropbox.com/scl/fi/bdvnf0xdg3p9kgdqkmj3t/Complete_Great_Bascinet.pdf?rlkey=2ybg4bsqvyb2oqsl1akphr6ue&dl=0)
-* [The Complete d’Aubernon Armour: Techniques of Construction (Volumes XVII-XIX) | Douglas W. Strong, Historical Research Press](https://www.dropbox.com/scl/fi/jykv17m5yj9ilop9flj7c/dauberoncompletearmour.pdf?rlkey=spj6lxfp2q2brinuurvtiep0n&dl=0)
-* [Some Notes on Great Helms, Crests and Early Tournament Reinforces | Dirk H. Breiding](https://www.dropbox.com/scl/fi/cuymf0nb5d0b0l5hcluzc/Some_Notes_on_Great_Helms_Crests_and_Ear.pdf?rlkey=uv04hm5a7k0tlr7wpv3rl5gmq&dl=0)
-* "Making of a 16th Century Armour" | Albert Collins - A good book, but there's no PDF. You would have to buy the book.
+* [Techniques of Medieval Armour Reproduction: The 14th Century | Brian Price](https://archive.org/details/techniques-of-medieval-armour-reproduction-paladin-press/mode/2up)
+* Tips, Techniques, Tools, Sources and Resources: For the Armourer | Douglas W. Strong, Historical Research Press - Included in the [Talbot's list](http://www.talbotsfineaccessories.com/books/metalwork.html)
+* [Basing Armouring: A Practical Introduction to Armour Making, Second Edition | Paul Blackwell](https://archive.org/details/Basic_Armouring_A_Practical_Introduction_to_Armour_Making_Paul_Blackwell)
+* The Complete Great Bascinet: Techniques of Construction | Douglas W. Strong, Historical Research Press - Included in the [Talbot's list](http://www.talbotsfineaccessories.com/books/metalwork.html)
+* The Complete d’Aubernon Armour: Techniques of Construction (Volumes XVII-XIX) | Douglas W. Strong, Historical Research Press - Included in the [Talbot's list](http://www.talbotsfineaccessories.com/books/metalwork.html)
+* [Some Notes on Great Helms, Crests and Early Tournament Reinforces | Dirk H. Breiding](https://www.academia.edu/5758293/Some_Notes_on_Great_Helms_Crests_and_Early_Tournament_Reinforces)
+* "Making of a 16th Century Armour" | Albert Collins (It can be bought [here](https://albertcollins.se))
+* [Knyght Errant's book list](https://knyghterrant.com/index.php/recommendations/books/armor-books/)
+* [Talbot's Fine Accessories](http://www.talbotsfineaccessories.com/books/metalwork.html) has many books for sale and is run by Douglas W. Strong.
 ## Other- presentations, boards, charts, etc.
 * [Armour thicknesses Pinterest board](https://www.pinterest.com/Arm_the_Armour/armor-thickness-measurements/?invite_code=18afe9f65b0d4b158e3ff77737362b88&sender=526358412607404173)- Arm_The_Armour
 * [Armour thicknesses Presentation](https://docs.google.com/presentation/d/1DLlrwJV7mx6-fZjQxfI5Yo7e-gOObpcxkDfSQ70MauQ/edit#slide=id.p)- Alan Williams, Wade Allen, Rene Kohlstruck, Matthias Goll, Arm_The_Armour
