@@ -38,7 +38,7 @@ Suggestions for those looking to get started as cheaply as possible.
 If you've got a little more cash to burn, these options might make your life a little easier.
 
 * Hammer: 2-2.5lb (900-1100g) crosspein, rounding, or drilling hammer from your local big box store. Check out our guide to [dressing your hammer][].
-* Forge: [Mr. Volcano single burner][Mr. Volcano forge]
+* Forge: [VEVOR Single Burner](VEVOR Forge)
 * Anvil: [Harbor Freight Doyle cast steel anvil][] or check out our [anvil buying guide][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][].
 
@@ -47,7 +47,7 @@ If you've got a little more cash to burn, these options might make your life a l
 Fine goods for the discerning aspiring blacksmith
 
 * Hammer: 2-2.5lb (900-1100g) crosspein or rounding hammer from one of your fellow artists: [Brent Bailey][]
-* Forge: [Mr. Volcano single or double burner][Mr. Volcano forge] or [Chile forge][]
+* Forge: [VEVOR Single or double burner](VEVOR Forge)
 * Anvil: [Anvil buying guide][] or buy new from [Texas Farrier Supply][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][]
 
@@ -76,7 +76,7 @@ Our recommendations:\
 [jabod]: /pages/equipment/jabod
 [Harbor Freight Doyle cast steel anvil]: https://www.harborfreight.com/65-lb-cast-steel-anvil-58924.html
 [Ken's Custom Iron tong blanks]: https://kensironstore.com/collections/quick-tongs
-[Mr. Volcano forge]: https://mrvolcano.com/collections/the-forge
+[VEVOR Forge]: https://www.amazon.com/VEVOR-Forge-Large-Capacity-Farrier/dp/B0BN9Q8ZY3
 [Chile forge]: https://chileforge.com/
 [sledgehammer anvil]: /pages/equipment/sledgehammer_anvil
 [dressing your hammer]: /pages/equipment/hammer_dressing
