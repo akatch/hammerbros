@@ -2,7 +2,7 @@
 title: What Do I Need?
 description: Read on to learn about the basics you'll need to get started on your blacksmithing journey.
 date: 2023-05-31T18:06:48-05:00
-lastmod: 2024-02-11
+lastmod: 2024-12-13
 ---
 The most common question we get from new blacksmiths is "what equipment do I need to get started?"
 
@@ -38,7 +38,7 @@ Suggestions for those looking to get started as cheaply as possible.
 If you've got a little more cash to burn, these options might make your life a little easier.
 
 * Hammer: 2-2.5lb (900-1100g) crosspein, rounding, or drilling hammer from your local big box store. Check out our guide to [dressing your hammer][].
-* Forge: [VEVOR Single Burner](VEVOR Forge)
+* Forge: [VEVOR Single Burner][VEVOR Forge]
 * Anvil: [Harbor Freight Doyle cast steel anvil][] or check out our [anvil buying guide][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][].
 
@@ -47,7 +47,7 @@ If you've got a little more cash to burn, these options might make your life a l
 Fine goods for the discerning aspiring blacksmith
 
 * Hammer: 2-2.5lb (900-1100g) crosspein or rounding hammer from one of your fellow artists: [Brent Bailey][]
-* Forge: [VEVOR Single or double burner](VEVOR Forge)
+* Forge: [VEVOR Single or double burner][VEVOR Forge]
 * Anvil: [Anvil buying guide][] or buy new from [Texas Farrier Supply][]
 * Tongs: 3/8" V-bit bolt jaw or wolf jaw from [Centaur Forge][], [Blacksmiths Depot][], or [Texas Farrier Supply][]
 
