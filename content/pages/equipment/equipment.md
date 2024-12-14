@@ -28,7 +28,7 @@ Check out our [how-to guide](/pages/equipment/sledgehammer_anvil) for tips on mo
 * [Ken's Custom Iron Quick Tongs](https://kensironstore.com/collections/quick-tongs)
 
 ## Forge
-* [Mr Volcano](https://mrvolcano.com/collections/the-forge)
+* [VEVOR Forge](https://www.amazon.com/VEVOR-Forge-Large-Capacity-Farrier/dp/B0BN9Q8ZY3)
 * [Just a Box of Dirt](https://www.youtube.com/watch?v=m-R6iY-mY-Y)
 
 {{< notice tip >}}
